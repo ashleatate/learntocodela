@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+  <title>Learn To Code LA Webdevlinks</title>
+  <style>
+  body {
+  font-family: Helvetica, sans-serif;
+}
+a {
+  color: cornflowerblue;
+}
+</style>
+  <body>
+    <h1>Learn to Code LA's first front-end web dev group project</h1>
+    <h2>Homework:</h2>
+    <b>Priority for our Monday night meetup group goes to those who do the homework!</b>
+        <ol>
+          <li>Make a GitHub account and send your username to Liz Krane on Meetup.com</li>
+          <li>Get familiar with using GitHub. Start on the following (you don't have to finish it all):</li>
+          <ul style="list-style-type:circle"><li>First, watch <a href="https://www.youtube.com/watch?v=8oRjP8yj2Wo&list=PLg7s6cbtAD165JTRsXh8ofwRw0PqUnkVH">this short video series</a></li>
+           <li>Next, do <a href="https://try.github.io/levels/1/challenges/1">this short interactive tutorial</a></li>
+           <li>And if you need extra help, watch <a href="https://www.youtube.com/watch?v=FyfwLX4HAxM&list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-&index=1">this first 5 videos in this series</a></li>
+          </ul>
+          <li>Add 5 of your favorite web dev inks to the bottom of this document</li>
+    </ol>
+          <br />
+          If you get stuck or have any questions, just ask us! We have a <a href="https://learntocodela.slack.com/">private group chat on Slack</a> --send Liz Krane your email address if you want an invite.
+         <h2>Goal for next meetup:</h2>
+          <ul style="list-style-type:disc"><li>Create a finished HTML document for version 1 of our website content!</li></ul>
+          <h2>Our list of cool web dev links:</h2>
+    <p>How to use GitHub Pages (hosts a free website on GitHub):<br />
+    <a href="http://jmcglone.com/guides/github-pages/">http://jmcglone.com/guides/github-pages/</a></p>
+<p>Code Pen: <br />
+  <a href=" http://codepen.io/">http://codepen.io/</a></p>
+    <p>Color Palletes: <br /> <a href= "http://www.colourlovers.com/">http://www.colourlovers.com/</a></p>
+<p>HTML Special Symbols: <br /> <a href="http://www.sabinanore.com/design/html-special-symbols/">http://www.sabinanore.com/design/html-special-symbols/</a></p>
+<p>CSS Gradients: <br />
+<a href="https://medium.com/@patrickbrosset/do-you-really-understand-css-linear-gradients-631d9a895caf"></a></p>
+<p>Why Learning to Code is So Damn Hard: <br />
+<a href="http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard">http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard</a></p>
+<p>Very good resource for Front End Web Developers: <br />
+<a href="https://medium.com/@ti_asif/200-best-free-tools-resources-for-front-end-web-developers-3fb3c415a643">https://medium.com/@ti_asif/200-best-free-tools-resources-for-front-end-web-developers-3fb3c415a643</a></p>
+    <p><a href="http://www.w3schools.com/">http://www.w3schools.com/</a></p>
+<p>This website features free lessons to help you learn the basics of HTML, CSS, JavaScript, and WordPress. <br /> <a href="http://learnwebcode.com/start-here/">http://learnwebcode.com/start-here/</a></p>
+<p>Free web tutorials, codes, templates, tools, and other web creation stuff. <br />
+  <a href="http://www.quackit.com/">http://www.quackit.com/</a></p>
+<p>Google's Web Fundamentals website: <br />
+<a href= "https://developers.google.com/web/fundamentals/">https://developers.google.com/web/fundamentals/</a></p>
+<p>(and the site itself is open-source: <a href="https://github.com/google/WebFundamentals">https://github.com/google/WebFundamentals</a>)</p>
+<p>30 CSS Best Practices for Beginners <br /> <a href="http://code.tutsplus.com/tutorials/30-css-best-practices-for-beginners--net-6741">http://code.tutsplus.com/tutorials/30-css-best-practices-for-beginners--net-6741</a></p>
+<p>Java2s.com - Tutorials, code snippets, and a real-time DCOM module to test your code! <br /> <a href="www.java2s.com">www.java2s.com</a></p>
+    <p>CSS Basics <br /> <a href="http://www.cssbasics.com/">http://www.cssbasics.com/</a></p>
+<p>nodejs for beginners, deploy your blog to heroku, how to node <br /> 
+  <a href="http://j.mp/1OTO0qv">http://j.mp/1OTO0qv</a></p>
+    <p>perfect css hexagons <br /> <a href="http://j.mp/1DiyQV5">http://j.mp/1DiyQV5</a></p>
+    <p>anatomy of a javascript framework <br /> <a href="http://j.mp/1IOyRou">http://j.mp/1IOyRou</a></p>
+<p>the absolute beginners guide to node.js <br /> 
+  <a href="http://j.mp/1GmtPiQ">http://j.mp/1GmtPiQ</a></p>
+<p>best practices for building angular.js <br />
+  <a href="http://j.mp/1aSHUJt">http://j.mp/1aSHUJt</a></p>
+<p>Code Academy - Make a Website - HTML/CSS <br /> <a href="http://www.codecademy.com/en/skills/make-a-website">http://www.codecademy.com/en/skills/make-a-website</a></p>
+<p>Code Academy - Make an Interactive Website <br /> <a href="http://www.codecademy.com/en/skills/make-an-interactive-website">http://www.codecademy.com/en/skills/make-an-interactive-website</a></p>
+<p>Code Academy - Learn AngularJS <br /> <a href="http://www.codecademy.com/en/learn/learn-angularjs">http://www.codecademy.com/en/learn/learn-angularjs</a></p>
+<p>Global CSS settings, fundamental HTML elements styled and enhanced with extensible classes, and an advanced grid system <br /> <a href="http://getbootstrap.com/css/">http://getbootstrap.com/css/</a></p>
+<p>learn to code by building projects for nonprofits <br /> <a href="http://www.freecodecamp.com/">http://www.freecodecamp.com/</a></p>
+<p>Find in-depth how-tos involving common web development and web design techniques. <br /> <a href="http://tympanus.net/codrops/category/tutorials/">http://tympanus.net/codrops/category/tutorials/</a></p>
+<p>An extensive CSS reference with all the important properties and info to learn CSS from the basics <br /> <a href="http://tympanus.net/codrops/css_reference/">http://tympanus.net/codrops/css_reference/</a></p>
+<p>ABC of JavaScript : An Interactive JavaScript Tutorial <br /> <a href="http://www.openjs.com/tutorials/basic_tutorial/index.php">http://www.openjs.com/tutorials/basic_tutorial/index.php</a></p>
+<p>A coding community site with online editor. Share JavaScript, HTML5 and CSS <br />
+  <a href="http://jsdo.it/">http://jsdo.it/</a></p>
+<p>HTML5 & CSS3 Fundamentals: Development for Absolute Beginners - 21 Video tutorials <br /> <a href="http://www.microsoftvirtualacademy.com/training-courses/html5-css3-fundamentals-development-for-absolute-beginners">http://www.microsoftvirtualacademy.com/training-courses/html5-css3-fundamentals-development-for-absolute-beginners</a></p>
+<p>CS 50 -- free online course from Harvard, great intro to programming <br /> <a href="https://cs50.harvard.edu/">https://cs50.harvard.edu/</a></p>
+<p>Git Cheat Sheet: <br /> <a href="https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf">https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf</a></p>
+    <p>stuuf</p>
+    <h2>Javascript</h2>
+    <hr>
+    <h2>Books</h2>
+    <ul style="list-style-type:"disc"">
+      <li>
+        <a href="http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/">JS Design Patterns/</a></li>
+      <br />
+      <li><a href="https://addyosmani.github.io/backbone-fundamentals/">Developing Backbone.js Applications</a></li>
+      <br />
+      <li><a href="https://leanpub.com/javascript-allonge">Javascript Allonge</a></li>
+  </ul>
+    <h2>References</h2>
+    <ul>
+      <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">Javascript MDN Reference</a></li>
+  </ul>
+    <h2>Blogs/Tutorials</h2>
+    <ul>
+      <li><a href="http://www.html5rocks.com/en/">HTML5Rocks</a></li>
+      <br />
+      <li><a href="http://dailyjs.com/">DailyJS</a></li>
+      <br />
+      <li><a href="http://nodeschool.io/">NodeSchool</a></li>
+    </ul>
+  </body>
+</html>
